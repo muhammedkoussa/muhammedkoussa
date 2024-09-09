@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Muhammed, I am a 4th year computer engineering student.
+I'm Muhammed, I work on artificial intelligence and machine learning.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
